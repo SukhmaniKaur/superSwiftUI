@@ -13,6 +13,7 @@
 		2A36BD9A294E28B4002CED20 /* LongPressGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BD99294E28B4002CED20 /* LongPressGesture.swift */; };
 		2A36BD9C294E2F29002CED20 /* MagnificationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BD9B294E2F29002CED20 /* MagnificationGestureView.swift */; };
 		2A36BD9E294E3554002CED20 /* RotateGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BD9D294E3554002CED20 /* RotateGestureView.swift */; };
+		2A36BDA0294E3A3A002CED20 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2A36BD99294E28B4002CED20 /* LongPressGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGesture.swift; sourceTree = "<group>"; };
 		2A36BD9B294E2F29002CED20 /* MagnificationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureView.swift; sourceTree = "<group>"; };
 		2A36BD9D294E3554002CED20 /* RotateGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateGestureView.swift; sourceTree = "<group>"; };
+		2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2A36BD99294E28B4002CED20 /* LongPressGesture.swift */,
 				2A36BD9B294E2F29002CED20 /* MagnificationGestureView.swift */,
 				2A36BD9D294E3554002CED20 /* RotateGestureView.swift */,
+				2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */,
 				2A36BD8F294E2729002CED20 /* Assets.xcassets */,
 				2A36BD91294E2729002CED20 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				2A36BD9A294E28B4002CED20 /* LongPressGesture.swift in Sources */,
 				2A36BD9C294E2F29002CED20 /* MagnificationGestureView.swift in Sources */,
 				2A36BD9E294E3554002CED20 /* RotateGestureView.swift in Sources */,
+				2A36BDA0294E3A3A002CED20 /* DragGestureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

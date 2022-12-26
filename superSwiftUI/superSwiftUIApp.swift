@@ -11,7 +11,7 @@ import SwiftUI
 struct superSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            DragGestureView()
+            ScrollViewReaderExample()
         }
     }
 }

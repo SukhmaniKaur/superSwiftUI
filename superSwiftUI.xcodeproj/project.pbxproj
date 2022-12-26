@@ -16,6 +16,7 @@
 		2A36BDA0294E3A3A002CED20 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */; };
 		2A36BDA229589048002CED20 /* SignUpViewWithDragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BDA129589048002CED20 /* SignUpViewWithDragGesture.swift */; };
 		2A36BDA42959E354002CED20 /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BDA32959E354002CED20 /* ScrollViewReaderExample.swift */; };
+		2A36BDA62959EF3A002CED20 /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A36BDA52959EF3A002CED20 /* GeometryReaderExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
 		2A36BDA129589048002CED20 /* SignUpViewWithDragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewWithDragGesture.swift; sourceTree = "<group>"; };
 		2A36BDA32959E354002CED20 /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
+		2A36BDA52959EF3A002CED20 /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				2A36BD9F294E3A3A002CED20 /* DragGestureView.swift */,
 				2A36BDA129589048002CED20 /* SignUpViewWithDragGesture.swift */,
 				2A36BDA32959E354002CED20 /* ScrollViewReaderExample.swift */,
+				2A36BDA52959EF3A002CED20 /* GeometryReaderExample.swift */,
 				2A36BD8F294E2729002CED20 /* Assets.xcassets */,
 				2A36BD91294E2729002CED20 /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A36BD8C294E2727002CED20 /* superSwiftUIApp.swift in Sources */,
+				2A36BDA62959EF3A002CED20 /* GeometryReaderExample.swift in Sources */,
 				2A36BD9A294E28B4002CED20 /* LongPressGesture.swift in Sources */,
 				2A36BD9C294E2F29002CED20 /* MagnificationGestureView.swift in Sources */,
 				2A36BD9E294E3554002CED20 /* RotateGestureView.swift in Sources */,
